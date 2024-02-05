@@ -1,11 +1,11 @@
 {
-    "intro_00": "It is important to include the person with dementia in decisions about their care as much as possible. However, as dementia progresses a person may not always be able to easily share information themselves, and ambulance staff may find important information is provided by care partners. Additional useful sources of patient information which may be available to ambulance staff include:",
+    "intro_00": "It is important to include the person with dementia in decisions about their care as much as possible, however, as dementia progresses a person may not always be able to easily share information themselves, and ambulance staff may find important information is provided by care partners. Additional useful sources of patient information which may be available to ambulance staff include:",
 
 
 
     "grade_01": "CL + CLS",
 
-    "subhead_01": "Care notes |\u00a0",
+    "subhead_01": "Care Notes |\u00a0",
     
     "text_01": "Professional carers may keep a hard copy of care plans in the patient's home, and/or a daily care log book for carers visits which can contain useful information about when a patient was last seen and how they were at that time.",
 
@@ -13,17 +13,17 @@
 
     "grade_02": "AG",
     
-    "subhead_02": "'This is me' document |\u00a0",
+    "subhead_02": "'This Is Me' Document |\u00a0",
     
-    "text_02": "This can also be referred to as 'Knowing me' 'About me' or hospital / communication passports - they serve as a record about a person who cannot always easily share this information themselves. Person centred care documents can be completed with or by someone who knows the person and their wishes, and may include information on a person's cultural or religious beliefs, important people or possessions in their lives and their preferences and routines. These documents can help professionals deliver care that meets a person's individual needs, thereby improving the patient experience.  Person centred care documents can also be used to quickly identify wishes and priorities when other forms of communication aren't possible.\n\nThese documents differ from the 'message in a bottle' which is stored in the fridge and contains a useful summary of information for emergencies. Person centred care documents are designed to record more detailed information about a person's needs, likes and dislikes, and should ideally travel with a person if they are going into hospital or any new care setting." <a href="https://www.alzheimers.org.uk/get-support/publications-factsheets/this-is-me" target="_blank">This Is Me</a,
+    "text_02": "This can also be referred to as 'Knowing me', 'About me' or hospital / communication passports - they serve as a record about a person who cannot always easily share this information themselves. Person centred care documents can be completed with or by someone who knows the person and their wishes and may include information on a person's cultural or religious beliefs; important people or possessions in their lives as well as their preferences and routines. These documents can help professionals deliver care that meets a person's individual needs, thereby improving the patient experience. Person centred care documents can also be used to quickly identify wishes and priorities when other forms of communication aren't possible.\n\nThese documents differ from the 'message in a bottle' which is stored in the fridge and contains a useful summary of information for emergencies. Person centred care documents are designed to record more detailed information about a person's needs, likes and dislikes and therefore, should ideally travel with a person if they are going into hospital or any new care setting.",
 
 
 
     "grade_03": "CL",
 
-    "subhead_03": "Advance documents |\u00a0",
+    "subhead_03": "Advance Documents |\u00a0",
     
-    "text_03": "Advance Decision to Refuse Treatment (sometimes referred to as a 'Living Will' or an Advance Directive), allow a person to record any medical treatments that they don't want to be given in the future in case they later become unable to make or communicate decisions themselves. An Advance Decision to Refuse Treatment is a legally binding document.\n\nAdvance Statements (or Advance Care Plans) allow a person to record their wishes, feelings, beliefs and values in case they later become unwell and need care or medical treatment. An Advanced Statement is not legally binding, however the persons views and wishes should be understood and taken into consideration if they need care or medical treatment.\n\nAn Advance Decision only covers refusals of medical treatment, whereas an Advance Statement can include any information that a person feels is important in relation to their health or care. Many people will have both an Advanced Decision to Refuse Treatment (ADRT), and an Advanced Statement recording their wishes, feelings, beliefs and values about future care should they become unable to make or communicate decisions themselves.",
+    "text_03": "Advance Decision to Refuse Treatment (sometimes referred to as a 'Living Will' or an 'Advance Directive'), allow a person to record any medical treatments that they do not want to be given in the future in case they later become unable to make or communicate decisions themselves. An Advance Decision to Refuse Treatment is a legally binding document.\n\nAdvance Statements (or Advance Care Plans) allow a person to record their wishes, feelings, beliefs and values in case they later become unwell and need care or medical treatment. An Advanced Statement is not legally binding, however the person's views and wishes should be understood and taken into consideration if they need care or medical treatment.\n\nAn Advance Decision only covers refusals of medical treatment, whereas an Advance Statement can include any information that a person feels is important in relation to their health or care. Many people will have both an Advanced Decision to Refuse Treatment (ADRT), and an Advanced Statement recording their wishes, feelings, beliefs and values about future care should they become unable to make or communicate decisions themselves.",
 
 
 
@@ -32,31 +32,31 @@
     
     "subhead_04": "Recommended Summary Plan for Emergency Care and Treatment (ReSPECT) |\u00a0",
     
-    "text_04": "Contain personalised recommendations for a person's clinical care and treatment in a future emergency in which they are unable to make or express choices. These recommendations are created through conversations between a person, their families, and their health and care professionals to understand what matters to them and what is realistic in terms of their care and treatment. Patient preferences and clinical recommendations are recorded on a non-legally binding ReSPECT form which can be reviewed and adapted if circumstances change. **ADD LINK** Find out more about the ReSPECT process on Resuscitation Council UK.",
+    "text_04": "ReSPECT contains personalised recommendations for a person's clinical care and treatment in a future emergency in which they are unable to make or express choices. These recommendations are created through conversations between a person, their families, and their health and care professionals to understand what matters to them and what is realistic in terms of their care and treatment. Patient preferences and clinical recommendations are recorded on a non-legally binding ReSPECT form which can be reviewed and adapted if circumstances change. https://www.resus.org.uk/respect Find out more about the ReSPECT process on Resuscitation Council UK.",
 
 
 
 
     "grade_05": "CL + CS",
     
-    "subhead_05": "Electronic Patient Record |\u00a0",
+    "subhead_05": "Electronic Patient Record (EPR) |\u00a0",
     
-    "text_05": "contain helpful information about the findings and outcomes of any other recent emergency ambulance attendances. ",
+    "text_05": "EPR contains helpful information about the findings and outcomes of any other recent emergency ambulance attendances. ",
 
 
     "grade_06": "PTS",
 
-    "subhead_06": "Patient transport booking |\u00a0",
+    "subhead_06": "Patient Transport Booking |\u00a0",
     
-    "text_06": "May contain the patient's condition or nothing at all other than patient's name, address, and appointmet details. The information that is entered in depends very much on what is added by the person who makes the booking, whether a GP, hospital, or if the patient is provided with a link to do so themselves. ",
+    "text_06": "'Patient Transport Booking' may contain the patient's condition or nothing at all other than patient's name, address, and appointmet details. The information that is entered in depends on what is added by the person who makes the booking, whether a GP, hospital, or if the patient is provided with a link to do so themselves. ",
 
 
 
 
     "grade_07": "CL",
 
-    "subhead_07": "Summary Care Records |\u00a0",
+    "subhead_07": "Summary Care Records (SCR) |\u00a0",
     
-    "text_07": "These are an electronic record of important patient information, compiled from GP medical records. They can be seen and used by authorised staff in other areas of the health and care system involved in the patient's direct care. Ambulance clinicians can be authorised to view SCRs using a smartcard. NHS Digital explains at a minimum, the SCR holds important information about; current medication; allergies and details of any previous bad reactions to medicines; the name, address, date of birth and NHS number of the patient. Additional Information in the SCR, such as details of long-term conditions, significant medical history, or specific communications needs, is now included by default for patients with an SCR, unless they have previously told the NHS that they did not want this information to be shared (NHS Digital, 2022)."
+    "text_07": "'Summary Care Records' are an electronic record of important patient information, compiled from GP medical records. They can be seen and used by authorised staff in other areas of the health and care system involved in the patient's direct care. Ambulance clinicians can be authorised to view SCRs using a smartcard. NHS Digital explains at a minimum, the SCR holds important information about; current medication; allergies and details of any previous bad reactions to medicines; the name, address, date of birth and NHS number of the patient. Additional Information in the SCR, such as details of long-term conditions, significant medical history, or specific communication needs, is now included by default for patients with an SCR, unless they have previously told the NHS that they did not want this information to be shared (NHS Digital, 2022)."
     
 }

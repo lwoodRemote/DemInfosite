@@ -5,40 +5,32 @@
 
     "grade_01": "AG",
 
-    "subhead_01": "Family and informal carers |\u00a0",
+    "subhead_01": "Family and Informal Carers |\u00a0",
 
-    "text_01": "Can be defined as the individual/s closely involved with the patient's care - be they a spouse, partner, close family member(s), friends or neighbours. Family and informal carers often provide care for as long as it is physically and mentally feasible. Arrangements may change as care demands increase in the later stages of dementia. Family and informal carers may be referred to as care partners.",
+    "text_01": "Can be defined as the individuals closely involved with the patient's care - be they a spouse, partner, close family members, friends or neighbours. Family and informal carers often provide care for as long as it is physically and mentally feasible. Arrangements may change as care demands increase in the later stages of dementia. Family and informal carers may be referred to as care partners.",
 
     
     "grade_02": "AG",
 
-    "subhead_02": "Toll on family |\u00a0",
+    "subhead_02": "Toll on Family |\u00a0",
     
-    "text_02": "The lived experience of caring for an individual with dementia can often be isolating, and result in a range of difficult emotions, particularly when one partner is the sole carer. Feelings of frustration or blame directed towards their loved one can cause guilt inducing emotions, for a condition that is beyond anyone's control. These emotions can make it more difficult for partners to reach out for support. It is also important to factor in that care partners may also have their own health conditions. It is not uncommon for ambulance staff to be faced with an expectation from care partners to take the patient to hospital as they are exhausted and want the time-out.  It is also important to factor in that care partners may have their own health conditions to contend with. Signposting care partners to local support services can help acknowledge the value of everyone's wellbeing and raise awareness about available support in advance to reduce the risk of a carer burnout and crisis.",
+    "text_02": "The lived experience of caring for an individual with dementia can often be isolating and result in a range of difficult emotions, particularly when one partner is the sole carer. Feelings of frustration or blame directed towards their relative can cause feelings of guilt, for a condition that is beyond anyone's control. These feelings can make it more difficult for partners to reach out for support. It is not uncommon for ambulance staff to be faced with an expectation from care partners to take the patient to hospital as they are exhausted and want the time-out.  It is also important to factor in that care partners may have their own health conditions to contend with. Signposting care partners to local support services can help acknowledge the value of everyone's wellbeing and raise awareness about available support in advance to reduce the risk of carer burnout and crisis.",
     
 
     "grade_03": "AG",
 
-    "subhead_03": "Professional domiciliary (home) Carers |\u00a0",
+    "subhead_03": "Professional Dociliary (Home) Carers |\u00a0",
 
-    "text_03":"Another potential means to support a person with dementia to live well is to seek the assistance from care agencies who can provide regular visits or live-in carers. Note, that advice on this subject may be perceived by family carers as a failure on their part to accept external support. It is important to broach the topic of seeking professional care with sensitivity and assure family carers that it is acceptable to ask for help. The first step is to contact the local authority for a care and support needs assessment. Funding for social care provision is usually means tested with some exceptions* but everyone is entitled to access a needs assessment regardless of income",
+    "text_03":"Another potential means to support a person with dementia to live well is to seek the assistance from care agencies who can provide regular visits or live-in carers. Note, that advice on this subject may be perceived by family carers as a failure, on their part, to accept external support. It is important to broach the topic of seeking professional care with sensitivity and assure family carers that it is acceptable to ask for help. The first step is to contact the local authority for a care and support needs assessment. Funding for social care provision is usually means tested with some exceptions* but everyone is entitled to access a needs assessment regardless of income.",
 
 
     "grade_04": "AG",
 
-    "subhead_04": "Residential and nursing homes |\u00a0",
+    "subhead_04": "Residential and Nursing Homes |\u00a0",
 
-    "text_04": "As a person's dementia progresses, they may remain in their own homes with increased support from family and/or professional carers, or receive care in a residential or nursing home. Care homes may also be able to provide support on a temporary (respite) basis. To find out more about available care options, the first step is to contact the local authority for a care and support needs assessment. Funding for social care provision is usually means tested with some exceptions* but everyone is entitled to access a needs assessment regardless of income.",
-
-    
-    "grade_05": "AG",
-
-    "subhead_05": "Test |\u00a0",
-
-    "text_05": "<h2 id=\"foo\"> Header with ID property<h2>",
+    "text_04": "As a person's dementia progresses, they may remain in their own homes with increased support from family and/or professional carers, or receive care in a residential or nursing home. Care homes may also be able to provide support on a temporary (respite) basis. To find out more about available care options, the first step is to contact the local authority for a care and support needs assessment.",
 
     
-
-    "smallprint": "* Some people with long-term complex health needs qualify for free social care arranged and funded solely by the NHS. This is known as NHS continuing healthcare. Eligibility for NHS continuing healthcare depends on assessed needs, and not on any particular diagnosis or condition. Find out more about NHS continuing healthcare here."
+    "smallprint": "* Some people with long-term complex health needs qualify for free social care arranged and funded solely by the NHS. This is known as NHS continuing healthcare. Eligibility for NHS continuing healthcare depends on assessed needs, and not on any particular diagnosis or condition."
 
 }
