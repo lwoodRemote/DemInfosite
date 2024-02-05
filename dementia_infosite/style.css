@@ -1,0 +1,528 @@
+
+* { 
+    box-sizing: border-box;
+
+    margin:0;
+
+    padding:0;
+
+    border: 0;
+
+    font-size: 16px;
+
+    font-family: 'Hind', sans-serif; }
+
+
+html {
+
+    color: #425563;
+
+    overflow-wrap: break-word;
+
+    background-color: #f5f5f5; }
+
+
+
+/* * * FONTS * * */
+
+
+p {
+    font-size: 17px;
+
+    font-weight: 400;
+    
+}
+
+
+h2 {
+
+    font-size: 17px;
+
+    font-weight: 600; }
+
+
+h3 {
+    
+    font-weight: 300; }
+
+h4 {
+
+    font-size: 5px;
+    
+    font-weight: 100; }
+
+
+#int_00 {
+
+    font-weight: 300;
+
+    font-size: 1.2rem;
+
+    color: #768692;
+
+    margin-right: 10%; }
+
+
+#small_print {
+
+    font-weight: 400;
+
+    font-size: 0.8rem;
+
+    line-height: 1.2rem; }
+
+
+.grade, .subheads {
+
+    float:left; }
+
+
+.text {
+
+    margin-left: 2.9vw;
+
+    white-space: pre-wrap; }
+
+    
+#instruction {
+
+    margin-left: 0vw; }
+
+
+.introgr {
+
+    float:left; }
+
+
+
+
+main {
+
+    width: 90vw;
+
+    margin: auto;
+
+    background-color: #ffffff; }
+
+
+.image_box, #navigation  {
+
+    width: 70vw;
+
+    margin-left:auto;
+
+    margin-right:auto; }
+
+
+img {
+
+    width: 70vw; }
+
+
+#info_box {
+
+    width: 70vw;
+
+    margin: auto; }
+
+
+
+/* * * TOP NAVIGATION * * */
+
+
+nav { 
+
+    display: -webkit-box;
+
+    display: -ms-flexbox;
+
+    display: flex;
+
+    justify-content: flex-start;
+    
+    margin-top: 3vh; }
+
+/* #top_nav {
+    
+    gap: 1.5vw;
+} */
+
+/* safari does not seem to support gap...piece of junk */
+
+#top_nav > * + * { 
+
+    margin-left: 1.5vw; }
+
+
+.topnav {
+
+    cursor: pointer;
+
+    margin-top: 20px;
+
+    padding-left: 0.2%;
+
+    padding-right: 0.2%;
+
+    padding-top: 7px;
+
+    padding-bottom: 2px;
+
+    font-size: 1.2rem;
+
+    font-weight: 400;
+
+    line-height: 1.3rem;
+
+    text-align: center; 
+
+    color: #005EB8;
+
+    background-color: #ffffff; 
+
+    border-bottom: 3px solid #ebebeb; }
+
+
+.topactive {
+
+    border-bottom: 3px solid #005EB8;
+    
+    transition: all 0.5s ease-in-out;
+
+    transform-origin:  0% 50%; }
+
+
+
+
+/* * * SUB NAVIGATION * * */
+
+.subnav {
+
+    padding:5px 1vw 5px 1vw;
+
+    cursor: pointer;
+
+    font-weight: 400;
+
+    line-height: 1rem;
+
+    color: #005EB8;
+
+    background-color: #ffffff; 
+
+    border-left: 1px solid #d4d4d4; }
+
+
+.subactive {
+
+    background-color: #005EB8;
+
+    color: white; }
+
+
+/*  .nodent {
+
+padding-left: 0;
+} */
+
+
+#subnav_life, #subnav_enviro, #subnav_care, #subnav_patient {
+
+    display: none; }
+
+
+.grade {
+
+    font-size: 0.8rem;
+
+    color:#006747;
+
+    width: 2.5vw;
+
+    line-height: 1.1rem;
+
+    padding-left: 0.2vw;
+
+    padding-top: 2px;
+
+    margin-top: 4px;
+    
+    margin-right: 0.4vw;
+
+    background-color: rgb(197, 231, 201);
+
+    border-top-right-radius: 2px;
+
+    border-bottom-right-radius: 2px;
+
+    border-top-left-radius: 1px;
+
+    border-bottom-left-radius: 1px; }
+
+
+
+/*TINY SCREEN SIZE*/
+/*
+@media all and (min-device-width: 100px) and (max-device-width: 279px) {
+
+
+    h1 {
+        
+        font-size: 1.8em;
+        
+        line-height: 2rem;
+    }
+
+
+    p {
+
+        padding-bottom: 8px;
+    }
+
+
+    h2, p, a, li, table, button {
+
+        font-size: 0.8rem;
+
+        line-height: 1.4rem;
+    }
+
+
+    h3 {
+
+        font-size: 0.15rem;
+        
+    }
+
+
+    .cross_img {
+
+        width: 100%;
+
+        height: auto;
+    }
+
+
+    .types_img {
+
+        width: 100%;
+
+        height: auto;
+    }
+
+
+    #logo {
+
+        width: 25%;
+    
+        height: auto;
+    
+    }
+
+
+    figcaption {
+
+        font-size: 0.8rem;
+
+    }
+
+}
+*/
+
+/*SMALL SCREEN SIZE*/
+/*
+@media all and (min-device-width: 280px) and (max-device-width: 524px) {
+
+
+    h1 {
+        
+        font-size: 1.8rem;
+        
+        line-height: 2rem;
+    }
+
+
+    p {
+
+        padding-bottom: 8px;
+    }
+
+
+    h2, p, a, li, table, button {
+
+        font-size: 0.8rem;
+
+        line-height: 1.4rem;
+    }
+
+
+    h3 {
+
+        font-size: 0.25rem;
+        
+    }
+
+
+    .cross_img {
+
+        width: 100%;
+
+        height: auto;
+    }
+
+
+    .types_img {
+
+        width: 100%;
+
+        height: auto;
+    }
+
+
+    #logo {
+
+        width: 25%;
+    
+        height: auto;
+    
+    }
+
+
+    figcaption {
+
+        font-size: 0.8rem;
+
+    }
+
+
+}
+*/
+
+/* MEDIUM SCREEN SIZE */
+/*
+@media all and (min-device-width: 525px) and (max-device-width: 1000px) {
+
+
+    h1 {
+        
+        font-size: 1.8rem;
+        
+        line-height: 2.0rem;
+    }
+
+
+    p {
+
+        padding-bottom: 10px;
+    }
+
+
+    h2, p, a, li, table, button {
+
+        font-size: 1.2rem;
+
+        line-height: 1.6rem;
+    }
+
+
+    h3 {
+        font-size: 0.5rem;
+    }
+
+
+    .cross_img {
+
+        width: 100%;
+
+        height: auto;
+    }
+
+
+    .types_img {
+
+        width: 100%;
+
+        height: auto;
+    }
+
+
+    #logo {
+
+        width: 20%;
+    
+        height: auto;
+    }
+
+
+    figcaption {
+
+        font-size: 1rem;
+
+    }
+
+}
+*/
+
+/* BIG SCREEN SIZE */
+/*
+@media all and (min-device-width: 1001px) and (max-device-width: 2000px) {
+    
+
+    h1 {
+        
+        font-size: 2rem;
+    }
+
+
+    p {
+
+        padding-bottom: 15px;
+    }
+
+
+    h2, p, a, li, table, button {
+
+        font-size: 1.4rem;
+
+        line-height: 1.9rem;
+    }
+
+
+    h3 {
+        font-size: 0.8rem;
+    }
+
+
+    .cross_img {
+
+        width: 100%;
+
+        height: auto;
+    }
+
+
+    .types_img {
+
+        width: 100%;
+
+        height: auto;
+    }
+    
+
+    #logo {
+
+        width: 12%;
+    
+        height: auto;
+    }
+
+    
+    figcaption {
+
+        font-size: 1rem;
+
+    }
+
+}
+
+*/
